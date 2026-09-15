@@ -48,15 +48,21 @@ A no-code, web-based Machine Learning development environment that allows Machin
 
 > **Note:** ML Builder is not currently hosted online. If you would like to see the application, please contact me at **georgeaslanwrk@gmail.com**, and I can provide access and make the application live for you to explore.
 
-### CNN Music Genre Classification
-
-Machine Learning model for music genre classification using the GTZAN dataset, achieving 95.66% test accuracy through spectrogram generation, data augmentation, and hyperparameter tuning.
-
 **Technologies:** Python, Machine Learning
 
 ## Technologies
 
-HTML · CSS · JavaScript · TypeScript · Angular · React · Node.js · Express · REST APIs · Firebase · WordPress · Elementor · Python · SQL · Git · Vercel
+### Languages
+HTML5 · CSS · JavaScript · TypeScript · Java · C · C++ · C# · Python · R · SQL · PL/SQL
+
+### Web Development
+Angular · React · Node.js · Express · REST APIs · jQuery · Bootstrap · Tailwind CSS · WordPress · Elementor · Responsive Web Design
+
+### Databases & Cloud
+MySQL · Firebase · Firestore · RDBMS · Vercel
+
+### Tools & Other
+Git · Docker · Linux/Unix · Figma · JSON · XML
 
 ## Other
 
@@ -64,5 +70,7 @@ HTML · CSS · JavaScript · TypeScript · Angular · React · Node.js · Expres
 - Responsive Web Design
 - UI/UX Implementation
 - Full-Stack Development
+- Frontend Development
+- Software Development
 - API Development
 - Database Integration
